@@ -1,5 +1,5 @@
 set mouse=a
-set nu
+set nu relativenumber
 inoremap " ""<Left>
 inoremap ( ()<Left>
 inoremap { {}<Left><CR><Tab><CR><Up><Right>
